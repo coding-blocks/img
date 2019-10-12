@@ -1,2 +1,2 @@
 # img
-Temp repository for image resources
+This is a temporary repository for image resources.
